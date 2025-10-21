@@ -46,8 +46,12 @@ Open the SQL file (SQL_scratch_project.sql) in your SQL environment.
 
 Execute the queries step by step to observe database creation, manipulation, and analysis.
 
-🧾 Author
-Oluwasegun Adelaja
-📧 adelajaoluwasegun2@gmail.com
-💼 www.linkedin.com/in/oluwasegun-adelaja-10897a209
-💻 https://github.com/ProfShaggi
+### 👨‍💼 Author
+
+**Oluwasegun Adelaja**
+
+**Data Analyst | Agricultural & Resource Economics Graduate**
+
+![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png) [Adelaja Oluwasegun](www.linkedin.com/in/oluwasegun-adelaja-10897a209)
+
+![Email](https://img.icons8.com/ios-filled/50/000000/email-open.png) Adelajaoluwasegun2@gmail.com
